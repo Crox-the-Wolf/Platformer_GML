@@ -6,7 +6,7 @@ switch room {
 	case world3:
 		grav = 0.4;
 		break;
-	case world4:
+	case rm_final:
 		grav = 0.1;
 		break;
 	case testWorld:
@@ -19,11 +19,11 @@ hsp = 0;
 vsp = 0;
 
 moveSpeedNormal = 4;
-moveSpeedPUp = 6
+moveSpeedBoon = 6
 
 moveSpeed = moveSpeedNormal;
 
 jumpSpeedNormal = 7;
-jumpSpeedPUp = 10;
+jumpSpeedBoon = 10;
 
 jumpSpeed = jumpSpeedNormal;

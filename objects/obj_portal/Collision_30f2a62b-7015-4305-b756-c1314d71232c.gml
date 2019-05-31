@@ -1,7 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(room != world4){
+audio_play_sound(start_bleep,1,0);
+if(room != rm_final){
 room_goto_next();
-} else if (room == world4) {
+} else if (room == rm_final) {
 	room_goto(gameover);
 }
