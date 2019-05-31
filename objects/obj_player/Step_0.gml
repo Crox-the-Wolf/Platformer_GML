@@ -1,8 +1,3 @@
-//restart check
-if(keyboard_check(vk_escape)){
-	room_restart();
-}
-
 //Keyboard checks
 key_right = keyboard_check(ord("D"));
 key_left = -keyboard_check(ord("A"));
@@ -15,7 +10,7 @@ hsp = move * moveSpeed;
 
 //Gravity
 if(vsp < 10){
-	vsp += (grav + key_drop);
+	vsp += (obj_game.grav + key_drop);
 }
 
 //horz collision
