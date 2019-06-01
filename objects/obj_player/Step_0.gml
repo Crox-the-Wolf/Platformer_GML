@@ -58,4 +58,8 @@ if(distance_to_object(obj_portal) <= 100) {
 	with(obj_portal) {
 		image_index = 1;
 	}
+} else {
+	with(obj_portal){
+		image_index = 0;
+	}
 }
