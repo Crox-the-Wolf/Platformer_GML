@@ -9,7 +9,7 @@
         "32fa1779-dede-49ac-9f40-854ec37676d8"
     ],
     "filterType": "GMObject",
-    "folderName": "player",
+    "folderName": "player and enemy",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

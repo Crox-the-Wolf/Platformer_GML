@@ -6,7 +6,7 @@ if(mouse_check_button(mb_left) && (fireRate < 0)) {
 //if(mouse_check_button(mb_left) || keyboard_check(vk_enter)) && (fireRate < 0) {
 	recoil = 3;
 	fireRate = 5;
-	with(instance_create_layer(obj_gun.x,obj_gun.y,"bullets",obj_bullet)){
+	with(instance_create_layer(obj_gun.x,obj_gun.y,"bullets_pve",obj_bullet)){
 		if(obj_player.image_xscale < 0) {
 			direction = -182 + irandom_range(-1,1);
 		}

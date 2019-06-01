@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_restart();
+audio_play_sound(explode_bleep,1,0);

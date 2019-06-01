@@ -1,8 +1,8 @@
 {
-    "id": "0b60af21-bd29-4758-8a6f-4f639cb6a783",
+    "id": "754f8474-86b7-4925-a1c2-d9ed9369e8e0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_pve_med",
+    "name": "obj_pve_sml",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "48d58b4e-ea9d-416c-ad73-bcfa3eb27264",
+    "spriteId": "579484bf-43f7-4b5d-8e75-d6814af4c7e8",
     "visible": true
 }

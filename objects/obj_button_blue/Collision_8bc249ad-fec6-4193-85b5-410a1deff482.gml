@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-with(other){
-	hp = 0;
-	flash = 3;
-	hitFrom = other.direction;
+with(obj_door_blue) {
+	instance_destroy();
 }
+
+image_index = 1;
