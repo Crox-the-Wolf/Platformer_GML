@@ -7,7 +7,10 @@
         "844d5cb8-cbc0-4e85-af88-e879ced2fa42",
         "7ac08d5f-ac74-4a57-972f-84f753167d92",
         "f8e22df4-e19b-48c3-a586-3a96d6b17577",
-        "ccb3bc40-fa34-4aa5-b4d8-2f79f7d0a10b"
+        "ccb3bc40-fa34-4aa5-b4d8-2f79f7d0a10b",
+        "6a2e6902-24b2-439f-83f8-9bd7e38b0893",
+        "2108e1b0-44b1-4de0-af20-50b19678c1c7",
+        "b432085a-1869-42b8-aeb9-1ef65fb0479f"
     ],
     "filterType": "GMObject",
     "folderName": "interacts",

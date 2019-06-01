@@ -5,9 +5,10 @@ moveSpeedNormal = 4;
 moveSpeedBoon = 6;
 
 moveSpeed = moveSpeedNormal;
+moveAniSpeed = 1;
 
 jumpSpeedNormal = 7;
-jumpSpeedBoon = 10;
+jumpSpeedBoon = 9;
 
 jumpSpeed = jumpSpeedNormal;
 

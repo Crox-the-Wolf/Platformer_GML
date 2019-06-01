@@ -41,7 +41,7 @@ if(!place_meeting(x,y+1,obj_wall)){
 	image_speed = 0;
 	if(sign(vsp) > 0) image_index = 1; else image_index = 0;
 } else {
-	image_speed = 1;
+	image_speed = moveAniSpeed;
 	if(hsp == 0) {
 		sprite_index = spr_player;
 	} else {
@@ -52,4 +52,10 @@ if(!place_meeting(x,y+1,obj_wall)){
 
 if(hsp != 0) {
 	image_xscale = sign(hsp);
+}
+
+if(distance_to_object(obj_portal) <= 100) {
+	with(obj_portal) {
+		image_index = 1;
+	}
 }

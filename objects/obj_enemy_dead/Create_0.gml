@@ -6,4 +6,4 @@ done = 0;
 
 
 image_speed = 0;
-alarm[0] = 600;
+alarm[0] = 420;

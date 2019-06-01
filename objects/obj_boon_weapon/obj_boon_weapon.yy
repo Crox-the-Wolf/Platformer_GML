@@ -2,7 +2,7 @@
     "id": "ccb3bc40-fa34-4aa5-b4d8-2f79f7d0a10b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_weapon",
+    "name": "obj_boon_weapon",
     "eventList": [
         {
             "id": "843edc2f-0111-47ed-b304-a68378a1c64d",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "31190fda-a39d-4cb5-a49c-d8c98334c7b2",
+    "spriteId": "f4c91eb7-85c4-40c5-bdf9-aefaee2e0571",
     "visible": true
 }
