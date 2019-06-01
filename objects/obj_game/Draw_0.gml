@@ -6,6 +6,7 @@ switch room {
 		draw_set_halign(fa_left);	
 		break;
 	default:
+		draw_flush();
 		if(score > 0) {
 			var c = c_orange;
 			draw_text_transformed_color(obj_portal.x-4, obj_portal.y-49, string(score), 1,1,0,c,c,c,c,1);		
