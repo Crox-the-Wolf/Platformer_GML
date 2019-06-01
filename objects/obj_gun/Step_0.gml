@@ -7,10 +7,10 @@ if(mouse_check_button(mb_left)) && (fireRate < 0) {
 	fireRate = 5;
 	with(instance_create_layer(obj_gun.x,obj_gun.y,"bullets",obj_bullet)){
 		if(obj_player.image_xscale < 0) {
-			direction = -180 + irandom_range(-1,1);
+			direction = -182 + irandom_range(-1,1);
 		}
 		else {
-			direction = 0 + irandom_range(-1,1);
+			direction = 2 + irandom_range(-1,1);
 		}
 		image_angle = direction;
 	}
