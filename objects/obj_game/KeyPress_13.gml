@@ -5,6 +5,6 @@ switch (room) {
 	room_goto(world1);
 	break;
  case gameover:
-	room_goto(title);
+	game_restart();
 	break;
 }
