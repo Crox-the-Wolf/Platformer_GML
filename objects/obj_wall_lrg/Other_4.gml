@@ -1,5 +1,8 @@
 /// @description Set Wall Color
 switch room {
+	case title:
+		sprite_index = spr_wall_lrg_org;
+		break;
 	case world1:
 	case world3:
 	case world4:

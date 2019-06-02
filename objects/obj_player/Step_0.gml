@@ -54,12 +54,12 @@ if(hsp != 0) {
 	image_xscale = sign(hsp);
 }
 
-if(distance_to_object(obj_portal) <= 100) {
-	with(obj_portal) {
-		image_index = 1;
+if(distance_to_object(obj_portal_spin) <= 100) {
+	with(obj_portal_spin) {
+		image_speed = 2;
 	}
 } else {
-	with(obj_portal){
-		image_index = 0;
+	with(obj_portal_spin){
+		image_speed = 1;
 	}
 }
