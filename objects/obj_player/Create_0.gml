@@ -13,7 +13,3 @@ jumpSpeedNormal = 7;
 jumpSpeedBoon = 9;
 
 jumpSpeed = jumpSpeedNormal;
-
-
-/* --- AUDIO ---*/
-audio_play_sound(tron_esque_bleep,1,0);
