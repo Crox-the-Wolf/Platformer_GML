@@ -2,7 +2,5 @@
 
 //alarm[0] = 600;
 
-anchorY = y;
-frequency = 0.2;
-amplitude = irandom_range(1,4);
-timer = 0;
+sin_value = 0;
+steps_per_cycle = 100;
