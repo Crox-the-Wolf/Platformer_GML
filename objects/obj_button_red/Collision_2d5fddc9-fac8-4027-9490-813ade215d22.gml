@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description destroy doors
+
 with(obj_door_red) {
 	instance_destroy();
 }

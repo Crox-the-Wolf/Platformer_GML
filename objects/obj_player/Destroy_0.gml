@@ -1,3 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description roll back score
+
 score = score - obj_game.scoreInRoom;

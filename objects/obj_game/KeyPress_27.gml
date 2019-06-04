@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description room restart
+
 with(obj_player) {
 	instance_destroy();
 }

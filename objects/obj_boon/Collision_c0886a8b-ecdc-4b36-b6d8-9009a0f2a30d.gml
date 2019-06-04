@@ -1,4 +1,6 @@
-//audio_play_sound(ahh_bleep,1,0);
+///@description Apply boons
+
+//apply player boons
 with(obj_player) {
 	jumpSpeed = jumpSpeedBoon;
 	moveSpeed = moveSpeedBoon;
@@ -6,8 +8,9 @@ with(obj_player) {
 	alarm[0] = 500;
 }
 
+//apply weapon boons
 with(obj_gun) {
-	choice = choose(1,2);
+	choice = choose(1,2); //rng of rapid shoot or one shoot upgrade
 	if(choice == 1) {
 		//rapidfire
 		fireRateMod = 2;
@@ -21,3 +24,6 @@ with(obj_gun) {
 }
 
 instance_destroy();
+
+/* --- AUDIO --- */
+//audio_play_sound(ahh_bleep,1,0);

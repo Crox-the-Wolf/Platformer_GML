@@ -1,3 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description
+
+//Resest score in room var to 0
 scoreInRoom = 0;

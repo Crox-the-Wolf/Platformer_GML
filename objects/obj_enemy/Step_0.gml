@@ -1,3 +1,5 @@
+///@description movement calcs and ani
+
 //Gravity
 if(vsp < 10){
 	vsp += obj_game.grav;
@@ -37,6 +39,8 @@ if(!place_meeting(x,y+1,obj_wall)){
 	
 }
 
+
+//flip image on dir change
 if(hsp != 0) {
 	image_xscale = sign(hsp);
 }

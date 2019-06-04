@@ -1,3 +1,5 @@
+//@description movement vars
+
 moveSpeedNormal = 3;
 hsp = moveSpeedNormal;
 vsp = 0;

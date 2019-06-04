@@ -1,3 +1,4 @@
+///@description death animation
 if(done == 0){
 	if(vsp < 10){
 		vsp += obj_game.grav;

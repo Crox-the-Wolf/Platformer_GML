@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description kill enemies
+
 with(obj_enemy) {
 	hitFrom = -1;
 	hp = 0;

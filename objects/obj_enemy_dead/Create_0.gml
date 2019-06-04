@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description movement vars
+
 hsp = 0;
 vsp = 0;
 done = 0;

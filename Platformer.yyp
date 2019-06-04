@@ -647,6 +647,14 @@
             }
         },
         {
+            "Key": "8dc17999-a9a9-47f6-bb86-4704d312f6ed",
+            "Value": {
+                "id": "52afcc02-98c0-4ce1-9c3c-e495786b2968",
+                "resourcePath": "views\\8dc17999-a9a9-47f6-bb86-4704d312f6ed.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8e33e326-0fc7-478a-90b9-935b2bf09a89",
             "Value": {
                 "id": "2191d9c4-bf47-40c3-9403-d28cc913f130",
@@ -775,14 +783,6 @@
             }
         },
         {
-            "Key": "b8b53c57-c3cb-4065-ad9b-c0336621a904",
-            "Value": {
-                "id": "df49e285-1196-4e0a-bb73-7d387480e3d3",
-                "resourcePath": "extensions\\Anime_Girl\\Anime_Girl.yy",
-                "resourceType": "GMExtension"
-            }
-        },
-        {
             "Key": "b9575056-4663-455b-82e0-ac39b9f23a9c",
             "Value": {
                 "id": "9473c945-bbc2-4d7f-b9b6-4de9f9f1a02f",
@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "ce966ab4-2684-42a8-9562-2f86f23f3fe9",
+            "Value": {
+                "id": "7dcf211e-4e0c-4289-9d38-9a83a9bac130",
+                "resourcePath": "views\\ce966ab4-2684-42a8-9562-2f86f23f3fe9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cf4eea1f-a7a6-41aa-bccf-d6e69d8dc85f",
             "Value": {
                 "id": "685e26f3-bbb9-4d8a-bd51-bb33d97b3185",
@@ -876,14 +884,6 @@
                 "id": "acda4b6e-9e7c-455d-9e09-84b90bb00d4a",
                 "resourcePath": "views\\cfbc5d85-c4ed-4f81-a812-865f74e5cb55.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "cffb50b8-dd1d-4590-ae49-5a547e8ae2a7",
-            "Value": {
-                "id": "cd47abdd-0846-4120-a3dc-af222f1536f9",
-                "resourcePath": "scripts\\scr_wave\\scr_wave.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -1064,7 +1064,7 @@
         }
     ],
     "script_order": [
-        "cffb50b8-dd1d-4590-ae49-5a547e8ae2a7"
+        
     ],
     "tutorial": ""
 }

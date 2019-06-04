@@ -1,3 +1,5 @@
+///@description Movement Calcs and Ani
+
 //Keyboard checks
 key_right = keyboard_check(ord("D"));
 key_left = -keyboard_check(ord("A"));
@@ -50,10 +52,13 @@ if(!place_meeting(x,y+1,obj_wall)){
 	
 }
 
+//flip image depending on direction
 if(hsp != 0) {
 	image_xscale = sign(hsp);
 }
 
+
+//increase portal ani when close
 if(distance_to_object(obj_portal_spin) <= 100) {
 	with(obj_portal_spin) {
 		image_speed = 2;

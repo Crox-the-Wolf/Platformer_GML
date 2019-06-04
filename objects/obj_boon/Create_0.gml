@@ -1,6 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
-//alarm[0] = 600;
+/// @description setup vars
+
+//alarm[0] = 600; //despawn timer idea
+
 anchorY = y;
 frequency = 0.1;
 amplitude = irandom_range(2,4);
