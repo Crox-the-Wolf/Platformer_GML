@@ -4,6 +4,7 @@ draw_set_font(fnt_comic);
 //Score tracking
 score = 0;
 scoreInRoom = 0; //used to subtract from score on room restart
+deathCount = 0;
 
 grav = 0.2;
 
