@@ -1,6 +1,7 @@
 /// @description death setup
 
 score = score - obj_game.scoreInRoom;
+obj_game.enemyKillCount = obj_game.enemyKillCount - obj_game.enemyRoomKillCount
 with(instance_create_layer(x,y,layer,obj_player_dead)) {
 	direction = other.hitFrom;
 	hsp = lengthdir_x(3,direction);
