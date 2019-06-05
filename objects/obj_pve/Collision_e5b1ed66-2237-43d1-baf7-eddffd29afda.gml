@@ -1,3 +1,6 @@
 /// @description kill player
 
-instance_destroy();
+with(other) {
+	hitFrom = other.direction;
+	alarm[1] = 1;
+}

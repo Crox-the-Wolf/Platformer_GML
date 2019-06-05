@@ -3,6 +3,8 @@
 hsp = 0;
 vsp = 0;
 
+hitFrom = 0;
+
 moveSpeedNormal = 4;
 moveSpeedBoon = 6;
 

@@ -1,6 +1,6 @@
-/// @description restart room
+/// @description kill player
 
-with(other){
-instance_destroy();
+with(other) {
+	hitFrom = other.direction;
+	alarm[1] = 1;
 }
-room_restart();
