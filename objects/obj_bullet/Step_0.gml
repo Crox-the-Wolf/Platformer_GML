@@ -4,4 +4,4 @@ if(speed <= 1) {
 	instance_destroy();
 }
 speed = speed - 2;
-image_alpha = image_alpha - 0.06
+image_alpha = image_alpha - 0.07
