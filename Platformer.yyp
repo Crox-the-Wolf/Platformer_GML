@@ -943,6 +943,14 @@
             }
         },
         {
+            "Key": "d7ef8f24-b6d2-47ab-9377-988abd896043",
+            "Value": {
+                "id": "727a44a7-8ea2-4c70-a929-3a2cbb97df24",
+                "resourcePath": "fonts\\fnt_hack\\fnt_hack.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "dc5dc62e-e9b9-46a3-ab89-8cc164503c5f",
             "Value": {
                 "id": "c6bc35fa-f5ef-4b10-af98-68fcac07f31e",

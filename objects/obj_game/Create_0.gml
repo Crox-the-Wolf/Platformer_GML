@@ -1,5 +1,5 @@
 //set font for any draw actions
-draw_set_font(fnt_comic);
+draw_set_font(fnt_hack);
 
 //Score tracking
 score = 0;
