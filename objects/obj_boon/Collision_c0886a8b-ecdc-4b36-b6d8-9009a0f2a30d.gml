@@ -23,7 +23,10 @@ with(obj_gun) {
 	alarm[0] = 500;
 }
 
+//create boon note
+instance_create_layer(x,y,"roomItems",obj_boon_note);
+
 instance_destroy();
 
 /* --- AUDIO --- */
-audio_play_sound(ahh_bleep,1,0);
+//audio_play_sound(ahh_bleep,1,0);

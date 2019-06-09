@@ -7,4 +7,4 @@ if(room != gameover) {
 }
 
 /* --- AUDIO --- */
-audio_play_sound(happy_bells_continue,1,0);
+///audio_play_sound(happy_bells_continue,1,0);
