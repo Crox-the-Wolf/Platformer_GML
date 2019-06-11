@@ -6,6 +6,8 @@ score = 0;
 scoreInRoom = 0; //used to subtract from score on room restart
 deathCount = 0;
 
+boonTimer = 500;
+
 enemyKillCount = 0;
 enemyRoomKillCount = 0;
 
@@ -17,3 +19,5 @@ gunDmg_mod_oneShot = 4;
 gunDmg_mod_rapidShot = 0.5
 
 gunDmg = gunDmg_base;
+
+rngGunBoon = 0;
