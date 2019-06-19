@@ -1,6 +1,9 @@
 /// @description kill player
-obj_game.deathCount++;
-with(other) {
-	hitFrom = other.direction;
-	alarm[1] = 1;
+if(obj_game.isDead != 1) {
+	obj_game.deathCount++;
+	obj_game.isDead = 1;
+	with(other) {
+		hitFrom = other.direction;
+		alarm[1] = 1;
+	}
 }

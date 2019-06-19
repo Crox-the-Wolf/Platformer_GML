@@ -15,3 +15,5 @@ jumpSpeedNormal = 7;
 jumpSpeedBoon = 9;
 
 jumpSpeed = jumpSpeedNormal;
+
+obj_game.isDead = 0;

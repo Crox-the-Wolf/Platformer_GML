@@ -6,6 +6,8 @@ score = 0;
 scoreInRoom = 0; //used to subtract from score on room restart
 deathCount = 0;
 
+isDead = 0; //used to ensure death count only happens once per death
+
 boonTimer = 500;
 
 enemyKillCount = 0;
