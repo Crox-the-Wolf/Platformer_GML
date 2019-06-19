@@ -10,7 +10,7 @@ with(obj_player) {
 
 //apply weapon boons
 with(obj_gun) {
-	rngGunPick = choose(1,2); //rng of rapid shoot or one shoot upgrade
+	
 	switch (rngGunPick) {
 		case 1:
 			//oneShot

@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "2e67782c-2d4a-459e-b551-908bbb069fdd",
+            "Value": {
+                "id": "7527456d-f7d8-4dfe-9408-029d3db51684",
+                "resourcePath": "sprites\\spr_boon_red\\spr_boon_red.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ffa898e-cf6d-4231-a303-dfaf2ea6abb6",
             "Value": {
                 "id": "4cab42b3-ae65-4933-a103-784d716d740c",
