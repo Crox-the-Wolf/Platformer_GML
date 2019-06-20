@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0b012b5d-6d9e-476c-b0b8-03e33c21ab89",
+            "Value": {
+                "id": "c72c3208-0826-4a72-834c-ada2a7d17785",
+                "resourcePath": "objects\\obj_gun_spawner_rapidShot\\obj_gun_spawner_rapidShot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0b60af21-bd29-4758-8a6f-4f639cb6a783",
             "Value": {
                 "id": "64daa32b-cbf6-43a7-bd8f-0e273a1fa09c",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "37a05b1b-2d13-4087-a6d0-bbc3f44f5321",
+            "Value": {
+                "id": "2b4f864a-d11a-4a01-a885-5d44c4a2593c",
+                "resourcePath": "objects\\obj_gun_spawner_oneShot\\obj_gun_spawner_oneShot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3a88e33b-815f-44f9-9548-e3873f3e3611",
             "Value": {
                 "id": "653e31e9-728f-45a1-a83d-2baaaff4de87",
@@ -364,6 +380,14 @@
                 "id": "cf7d10ac-bbe0-4691-a5c2-341da41aa737",
                 "resourcePath": "sprites\\spr_gun_basic\\spr_gun_basic.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4ff250d1-66ab-4273-b1e4-d451a89de3d2",
+            "Value": {
+                "id": "ba7fb8bb-1545-4a6d-867f-f9f1cebd1fa8",
+                "resourcePath": "objects\\obj_boon_oneShot\\obj_boon_oneShot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -655,6 +679,14 @@
             }
         },
         {
+            "Key": "8acbac63-70a5-4cbe-8673-d9f72fdf9924",
+            "Value": {
+                "id": "b0e9071b-12f2-4aae-9e13-685202de8ce0",
+                "resourcePath": "scripts\\scr_boon_player\\scr_boon_player.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "8b1bec08-7e89-4274-839e-9b1edb771954",
             "Value": {
                 "id": "931f06b6-2b5c-48cb-a9bd-eb569ad3b3b4",
@@ -852,6 +884,14 @@
                 "id": "bc2e5fdd-8b55-4331-9e11-ca0ef5a111ce",
                 "resourcePath": "sprites\\spr_gun_rapid\\spr_gun_rapid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6dcb206-c096-41cb-b143-9c96bc3279fe",
+            "Value": {
+                "id": "43d5e50e-e750-4d10-977c-7cbc6fb3d4b0",
+                "resourcePath": "objects\\obj_boon_rapidShot\\obj_boon_rapidShot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1079,6 +1119,14 @@
             }
         },
         {
+            "Key": "eeb365b4-154e-49b7-9a92-59bef6e2d66d",
+            "Value": {
+                "id": "5419ac11-d9c8-44a0-ac56-b9645de54367",
+                "resourcePath": "scripts\\scr_boon_gun\\scr_boon_gun.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f0c76053-3162-4936-920f-cc53ad259546",
             "Value": {
                 "id": "0fb72573-786c-4690-a62f-72369d30e050",
@@ -1154,7 +1202,9 @@
     "script_order": [
         "336fb256-9ae4-4d86-b740-9a31c1b6f8fb",
         "e6d324a9-2292-4174-b1b9-7416ca4515ad",
-        "a201bdb7-c3e9-4697-9b36-8c516aefef8f"
+        "a201bdb7-c3e9-4697-9b36-8c516aefef8f",
+        "8acbac63-70a5-4cbe-8673-d9f72fdf9924",
+        "eeb365b4-154e-49b7-9a92-59bef6e2d66d"
     ],
     "tutorial": ""
 }
