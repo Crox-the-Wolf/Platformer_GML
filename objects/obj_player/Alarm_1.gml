@@ -9,6 +9,7 @@ with(instance_create_layer(x,y,layer,obj_player_dead)) {
 	if(sign(hsp) !=0 ) image_xscale = sign(hsp);
 }
 
+obj_game.gunBoonPickUp = 0;
 with(obj_gun) {
 	instance_destroy();
 }

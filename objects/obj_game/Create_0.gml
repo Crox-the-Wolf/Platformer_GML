@@ -23,3 +23,4 @@ gunDmg_mod_rapidShot = 0.5
 gunDmg = gunDmg_base;
 
 rngGunBoon = 0;
+gunBoonPickUp = 0;

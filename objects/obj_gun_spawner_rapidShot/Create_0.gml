@@ -1,3 +1,4 @@
 /// @description self create timer
-
-alarm[0] = 400;
+if(obj_game.gunBoonPickUp = 1){
+	alarm[0] = 400;
+}
