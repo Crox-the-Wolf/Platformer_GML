@@ -1,6 +1,5 @@
 /// @description room restart
 
 with(obj_player) {
-	instance_destroy();
+	alarm[1] = 1;
 }
-room_restart();

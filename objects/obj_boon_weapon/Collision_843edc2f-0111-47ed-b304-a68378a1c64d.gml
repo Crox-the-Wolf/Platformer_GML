@@ -3,11 +3,11 @@ instance_destroy();
 instance_create_layer(x,y,layer,obj_gun);
 
 obj_game.gunBoonPickUp = 1;
-if(object_exists(obj_gun_spawner_oneShot)){
+if(instance_exists(obj_gun_spawner_oneShot)){
 	obj_gun_spawner_oneShot.alarm[0] = 1;
 }
 
-if(object_exists(obj_gun_spawner_rapidShot)) {
+if(instance_exists(obj_gun_spawner_rapidShot)) {
 	obj_gun_spawner_rapidShot.alarm[0] = 1;
 }
 
