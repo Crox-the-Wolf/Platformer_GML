@@ -13,4 +13,4 @@ if(instance_exists(obj_gun_spawner_rapidShot)) {
 
 
 /* --- AUDIO --- */
-//audio_play_sound(orc_tonic,1,0);
+audio_play_sound(orc_tonic,1,0);
